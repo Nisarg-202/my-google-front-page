@@ -1,0 +1,24 @@
+body{
+  background-image: url("home.jpg");
+}
+h1{
+  text-align: center;
+  padding-top: 25px;
+  color: white;
+  font-size: 50px;
+  font-family: 'Anton', sans-serif;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+label{
+  font-size: 35px;
+
+
+}
+.nali{
+  padding-left: 500px;
+}
